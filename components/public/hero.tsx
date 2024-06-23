@@ -115,7 +115,7 @@ export default function Hero() {
                                 </div>
 
                                 <div className="mt-4">
-                                    <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                                    <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
                                     <p className="mt-4 leading-relaxed text-gray-700">
                                         No, Rose, they are not breathing. And they have no arms or legs … Where are
@@ -195,7 +195,7 @@ export default function Hero() {
                                 </div>
 
                                 <div className="mt-4">
-                                    <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                                    <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
                                     <p className="mt-4 leading-relaxed text-gray-700">
                                         No, Rose, they are not breathing. And they have no arms or legs … Where are
@@ -275,7 +275,7 @@ export default function Hero() {
                                 </div>
 
                                 <div className="mt-4">
-                                    <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin' Alive</p>
+                                    <p className="text-2xl font-bold text-rose-600 sm:text-3xl">Stayin&apos; Alive</p>
 
                                     <p className="mt-4 leading-relaxed text-gray-700">
                                         No, Rose, they are not breathing. And they have no arms or legs … Where are they?
